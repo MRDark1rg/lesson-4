@@ -1,0 +1,37 @@
+.date{
+    width: 56px;
+    height: 56px;
+    background-color: blue;
+    padding: 7px 10px;
+    font-size: 37px;
+    color: white;
+}
+.text-block{
+    display: inline-block;
+    width: 929px;
+    vertical-align: top;
+}
+.image-block{
+    vertical-align: top;
+    margin-right: 39px;
+}
+.text1{
+    margin-bottom: 21px;
+}
+/* contact page */
+.section-contact{
+background-color: #e6e6e6;
+}
+.container{
+    width: 1177px;
+    margin: 0 auto;
+}
+.left-block{
+display: inline-block;
+margin-right: 580px;
+vertical-align: middle;
+}
+.right-block{
+display: inline-block;
+vertical-align: middle;
+}
